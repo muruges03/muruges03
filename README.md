@@ -20,10 +20,7 @@ I'm a passionate **PHP Laravel Developer** with a strong focus on building scala
 - **Tools**: Git, Docker, Composer, REST APIs, Postman
 - **Other**: PHPUnit, Laravel Passport, Sanctum, Horizon, Redis
 
-## 📈 GitHub Stats
-![Muruges03's GitHub stats](https://github-readme-stats.vercel.app/api?username=muruges03&show_icons=true&theme=radical)
 
----
 
 <!---
 muruges03/muruges03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
